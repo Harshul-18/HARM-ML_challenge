@@ -38,7 +38,7 @@ youtube-dl
 ## Implementation till now  
 - Built a real worl Web Application, which takes an input of a YouTube Video URL and runs our algorithms of fetching and retrieving the information on it.
 - Made a dataset generation file, which generates the dataset as per our requirements and is generating the data right now.
-- Made the model file, ready to run it when the dataset is generated.
+- Making the model file, to run it when the dataset is generated.
 - Till now not faced any big problems, everything is going as planned. Hope of that in future too.
 
 ## [Github Project Link](https://github.com/Harshul-18/HARM-ML_challenge)  
