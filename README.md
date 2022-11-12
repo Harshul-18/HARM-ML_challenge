@@ -13,6 +13,34 @@ A) Given a Youtube video:
 B) Accuracy: 90percent on custom dataset that will be provided after proof of concept.  
 C) Should be able to run in near-real-time on a server.  
 
+## Tools Using
+```
+scikit-learn
+bokeh
+chime
+matplotlib
+nltk
+numpy
+pandas
+Pillow
+pytube
+requests
+scikit_image
+stqdm
+streamlit
+streamlit_player
+toml
+youtube_search_python
+scrapetube
+youtube-dl
+```
+
+## Implementation till now  
+- Built a real worl Web Application, which takes an input of a YouTube Video URL and runs our algorithms of fetching and retrieving the information on it.
+- Made a dataset generation file, which generates the dataset as per our requirements and is generating the data right now.
+- Made the model file, ready to run it when the dataset is generated.
+- Till now not faced any big problems, everything is going as planned. Hope of that in future too.
+
 ## [Github Project Link](https://github.com/Harshul-18/HARM-ML_challenge)  
 ## [Demo Link](https://harshul-18-harm-bot-onlinestatsviewer-jeitt3.streamlit.app)  
 ## [Video Demo Link](https://drive.google.com/file/d/10k2DOhI2KSb_Oj_PElT3snEuwgzbfq6j/view?usp=share_link)  
